@@ -3,3 +3,18 @@ body{
 		color: white;
 		text-align: center;
 }	
+.pierwszy{
+	background-color: black;
+	color: orange;
+	text-align: center;
+}
+.drugi{
+	background-color: orange;
+	color: black;
+	text-align: center;
+}
+.trzeci{
+	background-color: black;
+	color: orange;
+	text-align: center;
+}
